@@ -1,0 +1,13 @@
+%Name	Synonyms	Composition	NumMe	DropMe	NumAc	DropAc	NumLinks	isAcid	Description
+Ac		-	C2H4O2		1	yes	1	no	1	no	O-acetyl
+N		-	NH3			3	no	2	no	2	no	Amine
+NAc		-	C2H5NO		2	no	1	no	1	no	N-acetyl
+NGc		-	C2H5NO2		3	no	2	no	2	no	N-glycolyl
+Me		-	CH4O		1	no	1	no	1	no	O-methyl
+Lac		-	C3H6O3		2	no	2	no	1	yes	Lactate
+Pyr		-	C3H4O3		1	no	1	yes	1	yes	Pyruvate
+P		-	H3PO4		3	no	1	no	1	yes	Phosphate
+S		-	H2SO4		1	no	1	no	1	yes	Sulfate
+PC		-	C5H14NO4P	2	no	1	no	1	no	Phosphocoline
+PPEtn	-	C2H9NO7P2	2	no	1	no	1	no	Diphosphoethanolamine
+PEtn	-	C2H8NO4P	2	no	1	no	1	no	Phosphoethanolamine

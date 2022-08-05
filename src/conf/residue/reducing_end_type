@@ -1,0 +1,14 @@
+%Name	Synonyms	Composition	NumMe	DropMe	NumAc	DropAc	NumLinks	isAcid	Description
+%freeEnd	-	-			2	no	2	no	1	no	Free reducing end
+redEnd	-	H2O			3	no	3	no	1	no	Reduced reducing end
+PA		2AP	C5H6N2		3	no	2	no	1	no	2-Aminopyridine
+2AB		-	C7H8N2O		3	no	2	no	1	no	2-Aminobenzamide
+AA		-	C7H7NO2		5	no	2	no	1	no	Anthranilic Acid
+DAP		-	C5H7N3		4	no	2	no	1	no	2,6-Diaminopyridine
+4AB		-	C7H9N3		5	no	3	no	1	no	4-Aminobenzamidine
+DAPMAB	-	C14H13N7O2	5	no	2	no	1	no	4-(N-[2,4-Diamino-6-pteridinylmethyl]amino)benzoic acid
+AMC		-	C10H9NO2	7	no	3	no	1	no	7-Amino-4-methylcoumarin
+6AQ		-	C9H8N2		3	no	2	no	1	no	6-Aminoquinoline
+2AAc	-	C13H10N2O	3	no	2	no	1	no	2-Aminoacridone
+FMC		-	C15H14N2O2	4	no	2	no	1	no	9-Fluorenylmethyl carbazate
+DH		-	C12H15N3O2S	4	no	2	no	1	no	Dansylhydrazine
